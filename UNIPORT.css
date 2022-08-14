@@ -103,9 +103,7 @@ body {
  nav ul li a {
     position: relative;
     font-size: 18px;
-    padding: 5px 0;
-
-    
+    padding: 5px 0;    
     color: var(--light-font);
     text-decoration: none;
     font-size: small;

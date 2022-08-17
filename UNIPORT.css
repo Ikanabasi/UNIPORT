@@ -297,7 +297,7 @@ nav ul li:hover .dropdown__menu ul li a:hover {
 
 .first-end {
     font-size: 14px;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
     display: block;
 }
 
@@ -420,6 +420,7 @@ p:last-child {
                                                     /* Footer ends(2) */
 .last {
     background-color: var(--main);
+
     color: var(--dark-font);
     font-size: small;
     border-top: 1px solid var(--grey-scale);
